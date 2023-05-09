@@ -1,8 +1,9 @@
 # telegram-bot-webapp-vagas
 
-[English Version](https://github.com/ygorluizfrazao/telegram-bot-webapp-vagas/blob/master/README.md)
+[English Version](https://github.com/ygorluizfrazao/telegram-bot-webapp-vagas/blob/master/README.md).
 
-Um programa de exemplo que usa a api webapp do telegram. Você pode testar [aqui](https://telegram-bot-webapp-vagas-ms48krdt9-ygorluizfrazao.vercel.app)
+Um programa de exemplo que usa a api webapp do telegram. Você pode testar [aqui](https://telegram-bot-webapp-vagas-ms48krdt9-ygorluizfrazao.vercel.app).
+O Bot está localizado [aqui](https://t.me/twappvagas_bot).
 
 ## Como posso fazer a minha própria?
 
