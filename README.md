@@ -1,5 +1,7 @@
 # telegram-bot-webapp-vagas
 
+[Portuguese Version](https://github.com/ygorluizfrazao/telegram-bot-webapp-vagas/blob/master/README_pt_BR)
+
 An example telegram bot web app focused in jobs and hiring, you test it (here)[https://telegram-bot-webapp-vagas-ms48krdt9-ygorluizfrazao.vercel.app]
 
 ## How can i create mine?
